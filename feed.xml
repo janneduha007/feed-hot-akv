@@ -9430,7 +9430,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200312</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A2 1999-2005</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2656</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21518,7 +21517,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200815</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mazda CX-3 2015-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8183</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -36433,7 +36431,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201421</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Yaris 2010-2020</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3295</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -41622,7 +41619,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201819</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Nissan Qashqai 2014-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5205</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -41889,7 +41885,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203405</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Dokker 2012-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4984</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43996,7 +43991,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202209</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki SX4 S-Cross 2013-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5045</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -54024,7 +54018,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>204004</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Tesla Model 3 2021-2023</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38323</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62394,6 +62387,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/4d/82/4d8260040895e5a8467ddc37786e71cbp488738-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/5b/a3/5ba3ca86ccd5d4eda1555d2d337ed4b2p486168-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/7b/44/7b44799689ce6c012dcaa2e9d2e500d5p486167-800x800.jpg</IMAGE>
 		</IMAGES>
