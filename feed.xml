@@ -8355,7 +8355,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202304</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mitsubishi Montero 1999-2006</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>188</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -29754,7 +29753,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200125</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Polo 2017-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17651</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46708,7 +46706,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200639</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Mustang Mach-E 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29246</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -55635,7 +55632,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202304</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mitsubishi Pajero 2002-2006 (facelift)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3726</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -60942,6 +60938,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201732</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes Citan 2021- (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40655</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -61006,6 +61003,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201732</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Nissan Townstar 2021- (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40656</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -61070,6 +61068,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201732</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Kangoo 2021- (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40657</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
