@@ -2310,7 +2310,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/3e/db/3edbd0701e5a5728951a1c0e1e203929p157-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b5/a0/b5a019c564242be9e58fcc41546a6adep493048-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -5464,7 +5464,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201412</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Verso 2009-2018 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>121</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8173,7 +8172,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202203</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki Swift 2005-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>182</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8551,7 +8549,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202702</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Subaru Legacy 2009-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>192</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18452,7 +18449,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202702</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Subaru Outback 2009-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4378</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27113,7 +27109,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202203</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki Swift 2010-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>12051</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28701,7 +28696,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202308</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mitsubishi Pajero 2006-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11793</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32603,7 +32597,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201725</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes X-Class 2017-2020 (W470)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18885</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39374,7 +39367,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201513</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Freemont 2011-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3374</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
