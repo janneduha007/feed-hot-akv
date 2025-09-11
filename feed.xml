@@ -908,7 +908,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200303</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A6 2004-2008</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5557,9 +5556,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c8/49/c8497da8c7f7d49e86dbe41949bf8e81p473529-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/83/9b/839bd6bcd7a0e4dea1457a6168216a9cp426-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/6d/7f/6d7fea4915177d2479ce9eac2425b441p427-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/92/25/92253a3f09ff5ff7a5c320643ef408a7p499881-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/2a/c4/2ac4d45ebb441ae2df046ad8ad583aeep499882-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ee/ff/eeff649b4cf0847cd7991a98da735d13p499883-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/13/f5/13f59ab1bdcef1ab056f33d1c15b35b0p499885-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6c/a2/6ca217f5243359cb0b74b49ae6fcf638p499884-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ad/dd/addd67df1bcea640cbb75c4136c870efp499886-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -14271,7 +14273,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		</CATEGORIES>
 		<IMAGES>
 			<IMAGE>https://www.autohotarek.cz/upload/images/3e/8a/3e8a2655f7afb636df91d4dd95f0f638p499796-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/27/87/2787336ac910cc38af64c1668c54b731p473522-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/ac/d5/acd5beca77fbb881b5bc0441df0a7fbdp499791-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/da/ad/daad54ee2a2dd1058f3b88944399980ap499792-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/6d/87/6d87af9802ced96c9319592897db2c2dp499793-800x800.jpg</IMAGE>
@@ -16130,7 +16131,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200303</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A6 Allroad Quattro 2006-2011</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3434</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19237,7 +19237,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200715</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW X5 1999-2006 (E53)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4618</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27916,7 +27915,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200403B</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo S80 1998-2006 (béžové)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>14087</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -37991,7 +37989,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202215</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki SX4 S-Cross 2020- (Hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22915</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38252,7 +38249,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200128</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Golf VIII. 2020- (MHEV, eTSI)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23023</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42195,7 +42191,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203405P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Dokker 2012-2021 (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6166</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48340,7 +48335,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201933</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Grand Scenic 2016-2022</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25377</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50645,7 +50639,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203413A</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Jogger 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33560</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -59394,7 +59387,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201938</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Trafic 2021- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40081</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62212,7 +62204,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200648</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Transit Courier 2023- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>41109</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62486,10 +62477,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/b2/40/b240ff8fd7fd2b33919e96499d61ccc7p489569-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/79/23/7923c8e52d30cc5726a9e168000802a8p241348-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/97/53/9753c6f8b2c4e975ec322fb939bb84aap241349-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/86/8b/868b6f24e5c550b8d2f170592fd2bb35p241350-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/1c/c1/1cc1ee517a3f1eb75e9d37262841980dp499887-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/57/04/5704ad3825ce256b1be711382e7ae5ecp499889-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/3a/e0/3ae04d157502ccd62242f3b5d8bfaa65p499888-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f7/d9/f7d912b983c439d3bc2580465ad18341p499890-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/3f/24/3f247987f179c05c6974a105d0b0d500p499891-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/af/91/af91fc234661556fd9b011819ebe6f61p499892-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -63006,7 +62999,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201936</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Megane 2016-2024 (sedan, combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33281</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -65102,5 +65094,65 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CURRENCY>CZK</CURRENCY>
 		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18685</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumové autokoberce pro vůz Mercedes E-Class 2023-  mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
+Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
+Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
+Střih autokoberců přesně odpovídá interiéru vozu Mercedes E-Class 2023-.Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
+Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
+Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
+Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
+Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/5e/fe/5efea0496b025494b9d035274be3441fp499899-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2023-</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>E-Class W214</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Mercedes</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1360</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165246249</EAN>
+		<VAT>21</VAT>
+		<CODE>201739</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Mercedes E-Class W214 2023-</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>43017</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
