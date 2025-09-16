@@ -1298,7 +1298,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200309</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A5 2007-2016 (coupe)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -1678,7 +1677,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200406</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo V70 2007-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>36</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -1696,9 +1694,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c6/9c/c69ca3bf4b2a0103e867a0a85807cbb9p121-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/c0/e8/c0e853b68bf96d34feec68b2ecb7c2ddp122-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/9f/ea/9fea82c32f7ccde42bf02206d22aa0d3p123-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d0/b4/d0b45cfb49438b2c7d6cb212a93f1c1cp500222-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e7/32/e732d04f7f210747b915b2280d20e6f0p500224-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f2/25/f22594aa8e18ed90b278c461d6c5dabap500223-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/88/8f/888f3a29919c85533cd0e25710c2f1e1p500226-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/bb/83/bb83017dbaa2aa8e7cd2ca4bc252f203p500225-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/3c/b9/3cb923bdf08d1862f5c66c8c11f69f3ap500227-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -3488,7 +3489,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200804</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mazda 5 2005-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>73</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8904,7 +8904,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203102</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Jeep Grand Cherokee 2005-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>195</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9098,7 +9097,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203401</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Duster 2010-2013</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>198</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13431,7 +13429,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201917</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Movano 2003-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3305</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13497,7 +13494,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201917</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Master 2003-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3306</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -14411,7 +14407,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/1e/85/1e850e59ba4ac66d7dce670a0d990f39p6478-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/16/f0/16f0a7e5a7a657895656828946d90e46p500178-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c8/33/c833f8c253293aed986c37a5f287927cp500180-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/3d/a3/3da3470acfcf78a0687047d6aaa01d15p500179-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/00/34/0034502d85406b4e33cc06d948207de7p500181-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f0/8b/f08bdd2655e32eaf5c03152021e05488p500182-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b1/56/b1567bc0bbc2597882b7b6969bfcdf9fp500183-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -16388,7 +16389,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200406</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo XC70 2007-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3438</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16516,7 +16516,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203401</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Logan 2004-2013 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3527</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17750,7 +17749,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200315</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi Q3 2011-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3854</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19705,7 +19703,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes M-Class 2011-2019 (W166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5008</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19984,9 +19981,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/2b/53/2b5321e5b26db8c00cf3f6c3594fca8cp10177-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/d9/f1/d9f1a8eaca1761380b32c284b29e41b4p10178-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/69/a7/69a76f7f0e3fa04f1e24e38a225f2bfep10179-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/28/21/28217bc4f20551be33194afc9b03921dp500194-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f9/3c/f93c9b65c34de69e5e769d54127e480fp500196-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/b1/88/b188cecf78a8dd7c0d8833913e9ea0bbp500195-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/26/58/2658242cffd3ceb8f003823adaa86dadp500197-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7c/d7/7cd773257d9c37a591c4b2283dd8bc15p500198-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/26/1d/261db558951ac9351ca7105fa56ccfa3p500199-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -20871,7 +20871,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200309</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi S5 2007-2016 (coupe)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6571</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -24138,7 +24137,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200406</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo S80 2006-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -24334,7 +24332,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200710</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW 1 2004-2011 (E81, E82, E87, E88)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>68</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -25172,7 +25169,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes GLE-Class 2015-2019 (W166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16304</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -26487,7 +26483,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200103A</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Galaxy 1995-2006 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -26612,7 +26607,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200103A</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Seat Alhambra 1995-2010 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3185</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -26676,7 +26670,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200103A</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Sharan 1995-2010 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3186</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28493,7 +28486,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes GLS-Class 2015-2019 (X166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16305</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -29087,7 +29079,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201521</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Tipo 2016- (hb i combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17368</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33720,7 +33711,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200710</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW 1 2011-2019 (F20)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3855</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35370,7 +35360,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes GL-Class 2012-2019 (X166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>21989</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35960,7 +35949,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200326</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi e-tron 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22435</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -36309,7 +36297,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202214</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki Jimny 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22447</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -36581,9 +36568,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/3a/db/3adb6f5bd5ad042e4108c50a68871780p475627-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/56/1a/561a913968d56b98b1406a21bfce722ep6382-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/14/3e/143ef0eff32a2691d657ab78ae7f93aep6383-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e1/6e/e16e5c59ca56f677033a6782c384170fp500188-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f6/a4/f6a4acb5664a03d3fcf2007ce638e5ffp500190-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e3/8b/e38b8259f94ccb40c85e56138c6013b3p500189-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/36/2a/362a2b5a5144e73a162e1f8fb11d7066p500191-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/81/97/8197cf4c35fb836be7122c593daf631fp500192-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/3c/f3/3cf33258383d2a529b419749c843e34dp500193-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -36643,10 +36633,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/40/e4/40e464806524b42eaa8665f449e57acap476504-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/63/c5/63c5fcf32275177d5aeb014b8d557e50p73970-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/5b/37/5b370b4dab8e6758d8f99c8d5ca50fe4p12966-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/bc/d0/bcd0a6e15e57d40da063f25d1c271108p12967-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/29/52/29529385181e26160801da56cd5a669ep500200-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/70/4d/704d59067612900bfd8d784c0b11235ep500202-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/28/06/280625639841b2c475d17266a9dccb87p500201-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/42/49/4249c9cba3837aa019b1ce3b1f01af21p500204-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/54/42/544287e92b7245a00c14914ec2ce3cbfp500203-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/45/a0/45a0146934d06972de3c713c737753f1p500205-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -39367,7 +39359,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/bb/60/bb60ee74707ead928915ca0d44d1320ep275430-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/97/21/9721da1d311467c4ad119b999e38c0f1p500206-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ec/3c/ec3c473924967f76d309c57ef25f1449p500207-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/dd/08/dd08f625e0628537dd5b9658d6c776e9p500208-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/21/bf/21bfa75acd6dac8d71858303eb78841bp500209-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/06/b1/06b18488c6193af8224ce566570472c1p500210-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/2b/0d/2b0d6fafa1494bffd782f79b8cbe0402p500211-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -46197,10 +46194,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/49/8c/498c5b7b817aa4e16d132fa4485ff896p298446-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/a6/07/a6070d33ee45244465ae6292c8ba1cd2p192150-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e5/fd/e5fdbe24a76eeebcaed26c1ab5f1a9e8p500219-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/07/e0/07e036c59d7998e5943bda674ddb1935p192151-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a6/07/a6070d33ee45244465ae6292c8ba1cd2p192150-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/5d/78/5d786e2924bd98843a642f8b2a24dc76p192152-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/63/8f/638f50c375c6c67899fd2814eb03eab0p500220-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f9/07/f90702c332a8a505862fedb4a00cf1b3p500221-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -50095,7 +50094,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201427</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Hilux 2005-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5051</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -51116,7 +51114,12 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/bb/60/bb60ee74707ead928915ca0d44d1320ep275430-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/18/8a/188a60d9e768d6123802b427e15dd172p500212-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c8/4b/c84b35492b6c689a3ab54d203a44b4b1p500213-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/79/88/79880e578957b30fcba45c055994bb73p500214-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/c4/89/c489994213814fc1fb1e759836db1af3p500215-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/97/32/9732d5d6882b594fc87d20c76bdb51c7p500216-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/39/44/39449546c7b2ad8b887d5ef889355ba7p500217-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -51228,7 +51231,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203701</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Chrysler Voyager 2008-2016 (7 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3581</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -56001,7 +56003,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200741</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW X1 2022- (U11, PHeV)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39012</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63398,7 +63399,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201511</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Doblo 2010-2022 (přední, 2 místa)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3302</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63664,7 +63664,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201511</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Combo D 2011-2018 (přední, 2 místa)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3788</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
