@@ -6521,7 +6521,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201702</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes E-Class W211 2002-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>140</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18615,7 +18614,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203406</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Sandero 2012-2020</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4376</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32276,7 +32274,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201234</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C5 Aircross 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19006</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33625,7 +33622,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2018-</VALUE>
+				<VALUE>2018-2025</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -50474,7 +50471,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201702</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes CLS-Class W219 2004-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5002</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -56889,7 +56885,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201448</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota bZ4X 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39166</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
