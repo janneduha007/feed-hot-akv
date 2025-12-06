@@ -51892,7 +51892,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200644</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Ranger Raptor 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>36304</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -51958,7 +51957,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200644</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Amarok 2023-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>36309</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -66525,6 +66523,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201810B</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Nissan Micra 2002-2007 (béžové)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43682</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
