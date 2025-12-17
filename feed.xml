@@ -62,6 +62,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200101</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Passat B5 1996-2005</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>1</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -1505,6 +1506,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200402</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo S60 2000-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>32</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -1570,6 +1572,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200403</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo S80 1998-2006</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -2094,6 +2097,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200505</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Astra G 1998-2004</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -2291,6 +2295,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200508</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Vectra C 2002-2008 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>47</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -2616,6 +2621,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200602</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Fiesta 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>52</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -3772,6 +3778,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200904</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Honda Jazz 2008-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>79</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4788,6 +4795,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201210</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C4 Picasso 2006-2013 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>101</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4851,6 +4859,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201211</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C1 2005-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>102</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4914,6 +4923,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201213</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C3 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>104</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5041,6 +5051,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201215</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen Berlingo 1996-2008 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>106</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5172,6 +5183,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201401</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Auris 2007-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>112</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5368,6 +5380,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201405</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Avensis 2009-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>116</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5499,6 +5512,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201410</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Land Cruiser Prado 120 2003-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>120</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6333,6 +6347,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201604</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Hyundai Tucson 2004-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>137</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6525,6 +6540,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201702</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes E-Class W211 2002-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>140</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6590,6 +6606,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201703</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes M-Class 1997-2005 (W163)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>141</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6841,6 +6858,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201804</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Nissan Pathfinder 2005-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>146</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7492,6 +7510,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201903</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Modus 2004-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>158</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7686,6 +7705,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201908</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Thalia 1999-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>164</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8464,6 +8484,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202303</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mitsubishi Outlander 2005-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>187</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8919,6 +8940,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203103</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Jeep Commander 2006-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>196</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9111,6 +9133,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201711</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW LT 1996-2006</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2038</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9303,6 +9326,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200206</CODE>
 		<NAME>Koberce gumové Škoda Octavia II. 2005</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2630</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9562,6 +9586,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200312</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A2 1999-2005</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2656</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9884,6 +9909,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200808</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mazda 2 2007-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2663</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10204,6 +10230,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201607</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Hyundai ix35 2010-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2671</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10525,6 +10552,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201707</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes E-Class W212 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2677</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10721,6 +10749,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202206</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki SX4 2005-2013</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2680</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11699,6 +11728,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200206</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Golf V. 2004-2008</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3268</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11762,6 +11792,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201215</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot Partner 1996-2008 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3269</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11825,6 +11856,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201211</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot 107 2005-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3270</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11888,6 +11920,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201211</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Aygo 2005-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3271</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12015,6 +12048,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200609</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Galaxy 2006-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3274</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12142,6 +12176,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202303</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C-Crosser 2007-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3278</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12205,6 +12240,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202303</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot 4007 2007-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3279</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12398,6 +12434,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200505</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Astra H 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3282</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12724,6 +12761,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201401</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Corolla 2007-2013 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3290</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13048,6 +13086,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201711</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes Sprinter 1995-2006</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3298</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -13944,6 +13983,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200404</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo S60 2010-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3316</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -14268,7 +14308,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201418</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Corolla Verso 2004-2009</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3327</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -14334,6 +14373,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201419</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Corolla 2002-2006</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3328</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -15956,6 +15996,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200206</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Golf VI. 2008-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3431</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16021,6 +16062,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200206</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Jetta 2005-2011</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3432</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16215,6 +16257,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200402</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo XC70 1999-2007</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3436</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16280,6 +16323,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200402</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo V70 2000-2007</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3437</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16603,6 +16647,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200114</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Beetle 2011-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3554</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16799,7 +16844,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200518</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Zafira C 2012-2019 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3560</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17385,6 +17429,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201225</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen Jumpy 2007-2016 (přední, Cargo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3716</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17450,6 +17495,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201225</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot Expert 2007-2016 (přední, Cargo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3718</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17581,6 +17627,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201423</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Auris 2012-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3798</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18694,6 +18741,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200807</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mazda CX-7 2007-2012 (diesel)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4446</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19083,6 +19131,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200715</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW X5 1999-2006 (E53)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4618</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20771,6 +20820,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203408</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Duster 2013-2018 (po faceliftu)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6819</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20836,6 +20886,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202307</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mitsubishi Space Star 2012-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6841</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21480,6 +21531,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201518</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat 500X 2014-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7823</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21545,6 +21597,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200722</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mini One/Cooper 2014- (5 dveří)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7824</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21870,6 +21923,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200206</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Seat Leon 2005-2013</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11104</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22070,7 +22124,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203107</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Jeep Renegade 2014-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11794</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22209,6 +22262,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200319</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A4 2016-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11796</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22476,6 +22530,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200612</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford C-Max 2003-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2659</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -22737,6 +22792,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201225</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Scudo 2007-2016 (přední, Cargo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3717</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23255,6 +23311,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201706</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes C-Class W204 2007-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2676</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23515,6 +23572,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200909</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Honda Accord 2003-2008</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>84</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -24753,7 +24811,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200628</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Tourneo Custom 2012-2018 (2. řada)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16339</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27811,6 +27868,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200319</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A5 2016- (Sportback)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>15072</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28151,6 +28209,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200816</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mazda CX-5 2017-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16620</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28216,6 +28275,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200404</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo XC60 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>34</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28281,6 +28341,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200404</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo V60 2010-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4588</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31210,6 +31271,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201313</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen Jumpy 2016- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18713</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31278,6 +31340,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201313</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot Expert 2016- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18714</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31346,6 +31409,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201313</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota ProAce 2016- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18715</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31964,6 +32028,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200126</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Touareg 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18884</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33333,6 +33398,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200206</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Scirocco 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3433</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33400,6 +33466,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200325</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi Q3 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19830</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33468,6 +33535,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201313</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Vivaro 2019- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19904</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35098,6 +35166,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200326</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi e-tron 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22435</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35698,6 +35767,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201421</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Yaris 2010-2020</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3295</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -37709,7 +37779,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 				<VALUE>Audi</VALUE>
 			</TEXT_PROPERTY>
 		</TEXT_PROPERTIES>
-		<PRICE_VAT>699</PRICE_VAT>
+		<PRICE_VAT>999</PRICE_VAT>
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5901165201071</EAN>
 		<VAT>21</VAT>
@@ -37847,6 +37917,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201907P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Kangoo 2008-2021 (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>163</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38047,6 +38118,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201710</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes CLS-Class W218 2010-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3334</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38182,6 +38254,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201803</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Nissan Navara 2005-2010 (4 dveře)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>145</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38245,6 +38318,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200609</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford S-Max 2006-2015 (rozteče 25,5 i 31 cm)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>59</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38778,6 +38852,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200623</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Transit / Tourneo Custom 2012-2018 (3 místa, přední, manuál)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7241</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39619,6 +39694,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201225</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota ProAce 2012-2016 (přední, Cargo)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25373</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -41054,6 +41130,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203405</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Dokker 2012-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4984</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -41591,6 +41668,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200130</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Golf VIII. 2020- (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25934</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43120,6 +43198,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200126</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Porsche Cayenne 2017-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26251</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44859,6 +44938,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201313</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Scudo 2022- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>27505</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45138,6 +45218,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201444</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Aygo X 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>27522</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45812,6 +45893,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200639</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Mustang Mach-E 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29246</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45879,6 +45961,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203412</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Spring 2021-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29249</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45942,6 +46025,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200612</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford C-Max 2010-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>30787</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46801,6 +46885,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200619</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Transit/Tourneo Connect 2014-2022 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5953</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -47991,6 +48076,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200508</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Signum 2003-2008 (combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31632</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50187,6 +50273,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201702</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes CLS-Class W219 2004-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5002</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50531,6 +50618,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200522</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Astra K 2015-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8377</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -51065,6 +51153,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200917</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Honda Civic 2012-2016 (hb i combi)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4481</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52592,6 +52681,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201315A</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot 5008 2017-2024 (5 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18662</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53347,6 +53437,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201321</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen Jumper 2006- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38470</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53415,6 +53506,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201321</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot Boxer 2006- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38471</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53483,6 +53575,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201321</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Ducato 2006- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38472</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53551,6 +53644,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201321</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Movano 2022- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38473</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53619,6 +53713,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201321</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dodge Ram Promaster 2014-2022 (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38474</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -54035,6 +54130,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201314</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot 3008 2016-2024</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>13230</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -55696,7 +55792,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202415</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Lexus RX 450h 2022-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39038</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -56086,6 +56181,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200732</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW i3 2014-2022</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39089</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -57298,6 +57394,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>205202</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast MG ZS 2017-2024 (spalovací motor)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39058</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -59225,6 +59322,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202210</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Suzuki Vitara 2015-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7773</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -60722,7 +60820,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201453</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Land Cruiser Prado (J250) 2023-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>41289</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -61196,6 +61293,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201943</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Master 2024- (přední, 3 míst)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42179</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -61265,6 +61363,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201943</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Nissan Interstar 2025- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42224</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -61467,6 +61566,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201511</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Doblo 2010-2022 (přední, 2 místa)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3302</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -61669,6 +61769,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201511</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Combo D 2011-2018 (přední, 2 místa)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3788</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62012,6 +62113,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201454</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Camry 2024- (hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42768</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -62633,6 +62735,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200740</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast BMW 7 2015-2022 (G11)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>29247</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63040,6 +63143,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201739</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes E-Class W214 2023-</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43017</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63236,6 +63340,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200638P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Ranger 2012-2022 (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43066</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63505,6 +63610,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201322</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot 3008 2024- (hybrid)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39041</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -63639,6 +63745,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202403</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Lexus CT 200h 2011-2022</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6411</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -64389,6 +64496,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200321</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Audi Q5 2017-2024</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>15511</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -64795,6 +64903,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202303</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mitsubishi Eclipse Cross 2018- (spalovací motor)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17625</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -65326,6 +65435,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200811</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mazda 6 2012-2024 (sedan)</NAME>
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4377</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
