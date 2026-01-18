@@ -19560,7 +19560,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes M-Class 2011-2019 (W166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5008</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -24712,7 +24711,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes GLE-Class 2015-2019 (W166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16304</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -27974,7 +27972,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes GLS-Class 2015-2019 (X166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16305</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30760,7 +30757,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200526P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen Berlingo 2018- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18387</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30830,7 +30826,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200526P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Opel Combo 2018- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18388</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30900,7 +30895,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200526P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot Rifter 2018- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18389</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34472,7 +34466,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201714</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes GL-Class 2012-2019 (X166)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>21989</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34612,7 +34605,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200526P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota ProAce City 2020- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22319</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -38400,7 +38392,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2020-</VALUE>
+				<VALUE>2020-2026</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
@@ -48956,7 +48948,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202906</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Land Rover Discovery 2017-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33437</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49022,7 +49013,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202906</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Land Rover Range Rover Sport 2013-2022</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33438</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50570,7 +50560,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200526P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Doblo 2022- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33997</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
