@@ -2618,7 +2618,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200602</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Fiesta 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>52</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -18528,7 +18527,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200618</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Kuga 2013-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4374</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30049,7 +30047,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Barva</NAME>
@@ -30117,7 +30115,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Barva</NAME>
@@ -30187,7 +30185,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Barva</NAME>
@@ -31768,7 +31766,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -35125,7 +35123,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Barva</NAME>
@@ -44656,7 +44654,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Barva</NAME>
@@ -47961,7 +47959,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -48101,7 +48099,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -48209,7 +48207,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201427</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Hilux 2005-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5051</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52398,7 +52395,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -52467,7 +52464,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -52536,7 +52533,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -57652,7 +57649,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -57720,7 +57717,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -57788,7 +57785,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -58328,7 +58325,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
-				<VALUE>neznámá</VALUE>
+				<VALUE>CZ</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Počet kusů v sadě</NAME>
@@ -59461,7 +59458,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200138</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Tayron 2025-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42548</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
