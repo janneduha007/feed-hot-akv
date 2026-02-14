@@ -2618,7 +2618,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200602</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Fiesta 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>52</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17805,7 +17804,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200209</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Škoda Rapid 2012-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3909</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -28918,7 +28916,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200122P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Crafter 2017- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17632</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31787,7 +31784,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>X-Class</VALUE>
+				<VALUE>X-Class W470</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Značka vozu</NAME>
@@ -32074,7 +32071,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200122P</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast MAN TGE 2017- (přední)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19362</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43174,7 +43170,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200209</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Seat Toledo 2012-2019</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4482</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -65367,7 +65362,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>CLS-Class</VALUE>
+				<VALUE>CLS-Class C218 / X218</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Značka vozu</NAME>
