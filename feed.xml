@@ -36852,7 +36852,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200635</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Kuga 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23463</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39994,7 +39993,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200635</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Escape 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25647</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -47275,71 +47273,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PRODUCT_NUMBER>32824</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Gumové autokoberce pro vůz Toyota Rav4 mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
-Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
-Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
-Střih autokoberců přesně odpovídá interiéru vozu (Toyota Rav4).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
-Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
-Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
-Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
-Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e6/84/e684032869044be0d490fe6b248b379fp500108-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/f4/91/f4912e351ef5fe6a88636962211834fcp202008-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/8d/21/8d2167cb74545d4cfce70017dc5c1eebp202007-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/28/a2/28a237d22027882c29b3ab23fb7a6310p202009-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/a3/ba/a3ba749787a7725d1c1e43f0cb26474ap500109-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/d7/91/d7912ecb799348d0871f6264d45b387bp500110-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2019-2026</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Rav4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Toyota</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1399</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<VAT>21</VAT>
-		<CODE>201445</CODE>
-		<NAME>Gumové autokoberce Rezaw-Plast Toyota Rav4 2019- (manuál)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-		<PRODUCT_NUMBER>32825</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
 		<DESCRIPTION>Gumové autokoberce pro vůz Jeep Cherokee mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
 Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
 Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
@@ -47940,7 +47873,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201427</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Toyota Hilux 2005-2015</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5051</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -60560,76 +60492,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PRODUCT_NUMBER>32826</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
-		<DESCRIPTION>Gumové autokoberce pro vůz Toyota Rav4 mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
-Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
-Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
-Střih autokoberců přesně odpovídá interiéru vozu (Toyota Rav4).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
-Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
-Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
-Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
-Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/6b/c5/6bc52b206f48e7d590c2d103e06d5896p499337-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/d4/37/d437ced94eeb8141f6323431f4f65903p192840-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/da/78/da7811185d95a8d2ce7f1b68b6b309b5p192839-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/86/52/86525e508f92ba43aba150930398ff0bp192841-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/7e/92/7e926af45df7bb08afb97f02520bfe6ap499335-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/54/b6/54b6baaddccef2fba9786fb2db3af003p499336-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Obsah sady</NAME>
-				<VALUE>Sada na celé auto</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2019-2026</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Rav4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Toyota</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1499</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901165217928</EAN>
-		<VAT>21</VAT>
-		<CODE>201435</CODE>
-		<NAME>Gumové autokoberce Rezaw-Plast Toyota Rav4 2019- (automat)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-		<PRODUCT_NUMBER>18685</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
 		<DESCRIPTION>Gumové autokoberce pro vůz Kia XCeed mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
 Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
 Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
@@ -60890,7 +60752,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>205204</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast MG 3 2024- (hybrid+)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40725</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -67768,5 +67629,140 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes A-Class 2004-2012 (W169)</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>2674</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumové autokoberce pro vůz Toyota Rav4 mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
+Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
+Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
+Střih autokoberců přesně odpovídá interiéru vozu (Toyota Rav4).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
+Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
+Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
+Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
+Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e6/84/e684032869044be0d490fe6b248b379fp500108-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/f4/91/f4912e351ef5fe6a88636962211834fcp202008-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/8d/21/8d2167cb74545d4cfce70017dc5c1eebp202007-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/28/a2/28a237d22027882c29b3ab23fb7a6310p202009-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/a3/ba/a3ba749787a7725d1c1e43f0cb26474ap500109-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d7/91/d7912ecb799348d0871f6264d45b387bp500110-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2019-2026</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Rav4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Toyota</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1399</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<VAT>21</VAT>
+		<CODE>201445</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Toyota Rav4 2019-2026 (manuál)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>32825</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumové autokoberce pro vůz Toyota Rav4 mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
+Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
+Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
+Střih autokoberců přesně odpovídá interiéru vozu (Toyota Rav4).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
+Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
+Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
+Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
+Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6b/c5/6bc52b206f48e7d590c2d103e06d5896p499337-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d4/37/d437ced94eeb8141f6323431f4f65903p192840-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/da/78/da7811185d95a8d2ce7f1b68b6b309b5p192839-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/86/52/86525e508f92ba43aba150930398ff0bp192841-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/7e/92/7e926af45df7bb08afb97f02520bfe6ap499335-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/54/b6/54b6baaddccef2fba9786fb2db3af003p499336-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>CZ</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Obsah sady</NAME>
+				<VALUE>Sada na celé auto</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2019-2026</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Rav4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Toyota</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1499</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165217928</EAN>
+		<VAT>21</VAT>
+		<CODE>201435</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Toyota Rav4 2019-2026 (automat)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+		<PRODUCT_NUMBER>18685</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
