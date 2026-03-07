@@ -69189,4 +69189,37 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44945</PRODUCT_NUMBER>
 	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast Audi A5 Sportback 2009-2016 (béžové) za1690 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1690</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5900232674824</EAN>
+		<VAT>21</VAT>
+		<CODE>200308B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Audi A5 Sportback 2009-2016 (béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44846</PRODUCT_NUMBER>
+	</SHOPITEM>
 </SHOP>
