@@ -4596,7 +4596,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201201</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C5 2008-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>95</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4660,7 +4659,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201204</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen Xsara Picasso 1999-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>97</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -4915,7 +4913,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201213</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Citroen C3 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>104</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -6085,7 +6082,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201507</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Fiat Linea 2007-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>132</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7504,7 +7500,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201903</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Modus 2004-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>158</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -31565,7 +31560,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200416</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo XC40 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18771</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34385,7 +34379,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202007</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Seat Leon 2012-2020</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5043</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35737,7 +35730,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201932</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Renault Captur 2020-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22623</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39042,7 +39034,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201306</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Peugeot 3008 2009-2016</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>111</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -56006,7 +55997,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Model vozu</NAME>
-				<VALUE>MG4 EV</VALUE>
+				<VALUE>4</VALUE>
 			</TEXT_PROPERTY>
 			<TEXT_PROPERTY>
 				<NAME>Značka vozu</NAME>
@@ -63133,7 +63124,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/fe/63/fe638c21b4319ee9130a3fdbdd674e1dp504599-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/e5/21/e521739bf98e98c15ded5a670b8fd1a3p509506-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/29/6f/296f66b836e9f4c9c8fc84deba9d0701p499453-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/de/2c/de2c9713b3cf07c726597ebd9059f664p499454-800x800.jpg</IMAGE>
 			<IMAGE>https://www.autohotarek.cz/upload/images/26/78/2678fce075c00f10dac36a777818a78bp499455-800x800.jpg</IMAGE>
@@ -65851,7 +65842,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/1e/ce/1ece558b802fff9b8cb14a0801b5d2f0p508251-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/da/91/da91f64d4221ee2af568cd64a30da8eap509502-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -65903,7 +65894,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/2b/4e/2b4e4c57cb27f4250a7a22e8194e59acp508250-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/85/34/8534175e7411dea40acc3ce146966b1cp509503-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -67057,6 +67048,9 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/53/5e/535ec36f6db499c694d88d5dd6a97e6ep509622-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
@@ -67496,6 +67490,9 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ee/99/ee99499a43a17ad871f2a4b7d9621acdp509495-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
@@ -67905,7 +67902,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/13/d0/13d0614196cb61d052631a883430e374p509449-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/54/50/545094975071ed2745102384c09967a8p509504-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -67962,7 +67959,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
 		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/62/9e/629eb1fd6822abcf1cacb411fed9e49ap509448-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/4b/1c/4b1cdc097d0838611159326ca60c29bap509505-800x800.jpg</IMAGE>
 		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
@@ -68841,9 +68838,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/64/bf/64bfd44e22cd0864a582ce01b7960204p509487-800x800.jpg</IMAGE>
-		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
@@ -68878,7 +68872,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
 		<EAN>5900232674978</EAN>
 		<VAT>21</VAT>
-		<CODE>202206B</CODE>
+		<CODE>200206B</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Škoda Octavia II. 2005-2013 (béžové)</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>44927</PRODUCT_NUMBER>
@@ -69155,6 +69149,9 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
 			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
 		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/6d/f4/6df4872831d03d66c3ba2cd9c3550865p509442-800x800.jpg</IMAGE>
+		</IMAGES>
 		<TEXT_PROPERTIES>
 			<TEXT_PROPERTY>
 				<NAME>Distribuce</NAME>
@@ -69293,5 +69290,389 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<NAME>Gumové autokoberce Rezaw-Plast Audi A3 2012-2020 (hatchback, 3dv, béžové)</NAME>
 		<CURRENCY>CZK</CURRENCY>
 		<PRODUCT_NUMBER>44280</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast VW Golf V. 2004-2008 (béžové) za1690 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2003-2010</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Golf V.</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Volkswagen</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1690</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5900232674978</EAN>
+		<VAT>21</VAT>
+		<CODE>200206B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast VW Golf V. 2004-2008 (béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44966</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast Seat Leon 2005-2013 (béžové) za1690 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2005-2012</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Leon</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Seat</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1690</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5900232674978</EAN>
+		<VAT>21</VAT>
+		<CODE>200206B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Seat Leon 2005-2013 (béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44967</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast VW Scirocco 2008-2017 (béžové) za1690 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2008-2017</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Scirocco</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Volkswagen</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1690</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5900232674978</EAN>
+		<VAT>21</VAT>
+		<CODE>200206B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast VW Scirocco 2008-2017 (béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44968</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast VW Golf VI. 2008-2012 (béžové) za1690 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2008-2012</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Golf VI.</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Volkswagen</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1690</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5900232674978</EAN>
+		<VAT>21</VAT>
+		<CODE>200206B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast VW Golf VI. 2008-2012 (béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44970</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast VW Jetta 2005-2011(béžové) za1690 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2005-2011</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>Jetta</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Volkswagen</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1690</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5900232674978</EAN>
+		<VAT>21</VAT>
+		<CODE>200206B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast VW Jetta 2005-2011(béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44974</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast Mercedes E-Class 2016-2023 (W213, béžové) za1900 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2016-2023</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>E-Class W213</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Mercedes</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1900</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165220423</EAN>
+		<VAT>21</VAT>
+		<CODE>201723B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Mercedes E-Class 2016-2023 (W213, béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44982</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Kvalitní Gumové autokoberce Rezaw-Plast Mercedes CLS (C257, béžové) za1900 Kč. V našem e-shopu si určitě vyberete.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>béžová</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2018-2023</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>CLS-Class C257</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Mercedes</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1900</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165220423</EAN>
+		<VAT>21</VAT>
+		<CODE>201723B</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Mercedes CLS (C257, béžové)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44987</PRODUCT_NUMBER>
+	</SHOPITEM>
+	<SHOPITEM>
+		<DESCRIPTION>Gumové autokoberce pro vůz Mercedes CLS C257 mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
+Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
+Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
+Střih autokoberců přesně odpovídá interiéru vozu (Mercedes CLS ).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
+Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
+Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
+Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
+Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
+V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
+		<CATEGORIES>
+			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
+			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
+		</CATEGORIES>
+		<IMAGES>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d8/cb/d8cbb15e3576f263fa76af2bdead193cp497455-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/27/15/2715ce6997614f9709450bb0bd6cf0f5p497456-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/cb/a6/cba6652a72cb71f87297578d613b4267p497457-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/ef/de/efdeed7c4c65412bb67b84d99add62b2p497458-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/33/69/3369b6ef6ed02e3dd06c9610b93fc6fbp497459-800x800.jpg</IMAGE>
+			<IMAGE>https://www.autohotarek.cz/upload/images/d9/f0/d9f005bd0c9c6fbf9cd9f442d64e7bbdp497460-800x800.jpg</IMAGE>
+		</IMAGES>
+		<TEXT_PROPERTIES>
+			<TEXT_PROPERTY>
+				<NAME>Distribuce</NAME>
+				<VALUE>neznámá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Barva</NAME>
+				<VALUE>černá</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Obsah sady</NAME>
+				<VALUE>Sada na celé auto</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Počet kusů v sadě</NAME>
+				<VALUE>4</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>guma</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Materiál</NAME>
+				<VALUE>gumové</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Rok výroby vozu</NAME>
+				<VALUE>2018-2023</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Model vozu</NAME>
+				<VALUE>CLS-Class C257</VALUE>
+			</TEXT_PROPERTY>
+			<TEXT_PROPERTY>
+				<NAME>Značka vozu</NAME>
+				<VALUE>Mercedes</VALUE>
+			</TEXT_PROPERTY>
+		</TEXT_PROPERTIES>
+		<PRICE_VAT>1099</PRICE_VAT>
+		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
+		<EAN>5901165211544</EAN>
+		<VAT>21</VAT>
+		<CODE>201723</CODE>
+		<NAME>Gumové autokoberce Rezaw-Plast Mercedes CLS 2016-2023 (C257)</NAME>
+		<CURRENCY>CZK</CURRENCY>
+		<PRODUCT_NUMBER>44988</PRODUCT_NUMBER>
 	</SHOPITEM>
 </SHOP>
