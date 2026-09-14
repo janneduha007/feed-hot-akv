@@ -8869,7 +8869,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203102</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Jeep Grand Cherokee 2005-2010</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>195</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11066,7 +11065,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203403</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Sandero 2008-2012</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2687</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19520,7 +19518,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201716</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mercedes Sprinter 2006-2018</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5027</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20168,7 +20165,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200720</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Mini One / Mini Cooper 2001-2014</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6284</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20946,7 +20942,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>202601</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Saab 9-3 2002-2011</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7242</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -29442,7 +29437,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200417</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo V60 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18642</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30741,7 +30735,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200417</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Volvo S60 2018-</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19363</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -37776,7 +37769,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200211</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Škoda Fabia III. 2014-2021</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7684</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39319,7 +39311,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>201716</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast VW Crafter 2006-2017</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26046</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43543,7 +43534,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200624</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Ford Mondeo 2015-2022</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>7240</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49409,7 +49399,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>200927</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Honda CR-V 2023- (PHEV)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38378</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49964,7 +49953,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CODE>203409</CODE>
 		<NAME>Gumové autokoberce Rezaw-Plast Dacia Duster 2018-2024 (handsfree klíč)</NAME>
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16917</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -68605,71 +68593,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<CURRENCY>CZK</CURRENCY>
 		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11895</PRODUCT_NUMBER>
-	</SHOPITEM>
-	<SHOPITEM>
-		<DESCRIPTION>Gumové autokoberce pro vůz Toyota Corolla E210 včetně hybridní pohon. Mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
-Zvýšený okraj oceníte především v deštivém podzimním počasí. V zimě gumové autokoberce zadržují z bot odtávající sníh a agresivní sůl. Na jaře pak chrání původní podlahu vozu před blátem během oblevy.
-Protiskluzová úprava povrchu autokoberců zaručuje kvalitní podmínky při řízení vozu.
-Střih autokoberců přesně odpovídá interiéru vozu (Toyota Corolla).Autokoberce REZAW-PLAST jsou vyráběny ze syntetického kaučuku a jsou odolné vůči opotřebení a snadné na údržbu.
-Díky speciální technologii výroby si zachovávají svoji elastičnost v rozmezí teplot -40°C až +110°C.Originální fixace nejsou součástí autokoberců Rezaw-Plast.
-Výrobce však přidává zvlášť ke každé sadě univerzální fixace. Zvlášť z toho důvodu, abyste měli možnost se rozhodnout, jestli v autokobercích fixace chcete nebo ne. Pokud ano, fixace lze velmi jednoduše nainstalovat do vyznačených míst na autokoberci. 
-Každá sada obsahuje 4 univerzální fixace do autokoberců a 4 plastové šrouby do podlahy vozu pro upevnění předních koberců. Pokud byste chtěli zafixovat také autokoberce zadní, je třeba dodatečně zakoupit 4 ks univerzálních fixací.
-Jestliže je podlaha Vašeho auta z výroby opatřena originálními fixačními trny, doporučujeme k autokobercům Rezaw-Plast dokoupit také originální fixace.Pokud si nejste jisti s výběrem gumového autokoberce a potřebujete poradit, čím se právě Rezaw-Plast liší od jiných výrobců, připravili jsme přehledné srovnání různých značek.
-V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci a produkty. Zmiňujeme veškeré jejich vlastnosti, klady a zápory i doporučení podle toho, jakým způsobem Vaše auto využíváte.</DESCRIPTION>
-		<CATEGORIES>
-			<CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</CATEGORY>
-			<DEFAULT_CATEGORY>Auto-moto | Autodoplňky | Autokoberce na míru</DEFAULT_CATEGORY>
-		</CATEGORIES>
-		<IMAGES>
-			<IMAGE>https://www.autohotarek.cz/upload/images/e4/f3/e4f3c26ed35568a89406b4c2fe07238bp499782-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/7d/cf/7dcf14cf9d086a6539c27097790e10e5p499784-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/9b/5a/9b5ac10a06369f5568a6c87cb395428ap499783-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/7c/f5/7cf5175af205470d07f37f551771187bp499785-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/61/fa/61fab4e99d100370ca242324347ff5e6p499786-800x800.jpg</IMAGE>
-			<IMAGE>https://www.autohotarek.cz/upload/images/2d/1e/2d1ef995008bc46d5416892da18b1d48p499787-800x800.jpg</IMAGE>
-		</IMAGES>
-		<TEXT_PROPERTIES>
-			<TEXT_PROPERTY>
-				<NAME>Distribuce</NAME>
-				<VALUE>CZ</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Počet kusů v sadě</NAME>
-				<VALUE>4</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Barva</NAME>
-				<VALUE>černá</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>guma</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Materiál</NAME>
-				<VALUE>gumové</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Rok výroby vozu</NAME>
-				<VALUE>2018-</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Model vozu</NAME>
-				<VALUE>Corolla</VALUE>
-			</TEXT_PROPERTY>
-			<TEXT_PROPERTY>
-				<NAME>Značka vozu</NAME>
-				<VALUE>Toyota</VALUE>
-			</TEXT_PROPERTY>
-		</TEXT_PROPERTIES>
-		<PRICE_VAT>1499</PRICE_VAT>
-		<MANUFACTURER>Rezaw-Plast</MANUFACTURER>
-		<EAN>5901165245266</EAN>
-		<VAT>21</VAT>
-		<CODE>201450</CODE>
-		<NAME>Gumové autokoberce Rezaw-Plast Toyota Corolla 2024- (sedan i combi)</NAME>
-		<CURRENCY>CZK</CURRENCY>
-		<PRODUCT_NUMBER>38663</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
 		<DESCRIPTION>Gumové autokoberce pro vůz Toyota Corolla mají zvýšený okraj po celém obvodu. Výška okraje je cca 3 cm a zabraňuje tak pronikání nečistot do interiéru automobilu. 
