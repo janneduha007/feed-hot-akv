@@ -445,6 +445,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -702,6 +703,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -788,6 +790,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>17</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -1915,6 +1918,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>32</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -2088,6 +2092,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>35</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -2348,7 +2353,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -3395,6 +3399,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>52</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5152,6 +5157,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>81</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -5916,6 +5922,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>93</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -7731,6 +7738,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>127</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -8320,6 +8328,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>135</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -9870,6 +9879,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>156</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10214,6 +10224,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>164</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -10646,6 +10657,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>172</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11075,6 +11087,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>182</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -11852,7 +11865,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>196</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -12625,6 +12637,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2655</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -16966,6 +16979,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3292</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17052,6 +17066,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3293</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17731,6 +17746,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3305</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -17817,6 +17833,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3306</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19114,6 +19131,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3329</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -19989,6 +20007,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3348</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -20584,6 +20603,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3421</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21531,6 +21551,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3436</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -21617,6 +21638,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3437</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23122,6 +23144,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3716</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23218,6 +23241,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3718</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23304,6 +23328,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3730</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -23390,7 +23415,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3798</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -29881,6 +29905,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3717</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30396,6 +30421,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>190</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30567,6 +30593,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>2676</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -30653,6 +30680,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3338</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32804,6 +32832,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16343</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32901,6 +32930,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16344</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -32998,6 +33028,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16345</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33094,6 +33125,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16346</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33190,6 +33222,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16347</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -33286,6 +33319,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>16348</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34619,6 +34653,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3858</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34708,6 +34743,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3859</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34797,6 +34833,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5031</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -34886,6 +34923,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5032</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35252,6 +35290,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>12051</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35343,6 +35382,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>12089</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -35434,6 +35474,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>12090</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -39396,6 +39437,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>76</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42240,6 +42282,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19936</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -42336,6 +42379,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>19937</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -43627,6 +43671,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>100</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44173,6 +44218,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22447</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -44443,6 +44489,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>6167</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45186,6 +45233,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22619</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -45466,6 +45514,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22717</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46081,6 +46130,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22915</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46367,6 +46417,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>22843</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -46840,6 +46891,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>163</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -48913,6 +48965,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3347</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -49009,6 +49062,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25373</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -50649,6 +50703,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25647</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -52982,6 +53037,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26131</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53074,6 +53130,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26132</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53894,6 +53951,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3340</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -53990,7 +54048,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26583</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -55182,6 +55239,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>27464</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58033,6 +58091,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>13231</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58122,6 +58181,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>15073</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58211,6 +58271,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18640</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58297,6 +58358,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>25377</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58741,6 +58803,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11797</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -58830,6 +58893,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4969</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -59187,6 +59251,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>31697</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -59454,6 +59519,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>32824</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -60532,6 +60598,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33530</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -60623,6 +60690,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>33531</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -64603,6 +64671,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18662</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -66830,6 +66899,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>38947</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -67091,6 +67161,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4587</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -67169,6 +67240,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4589</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -67247,6 +67319,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4590</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -68957,6 +69030,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39167</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -69227,6 +69301,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3430</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -69597,6 +69672,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>157</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -69779,6 +69855,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>186</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -69865,6 +69942,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3335</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -70042,6 +70120,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40077</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -71318,6 +71397,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>128</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -71588,6 +71668,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40654</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -71981,6 +72062,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39092</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -72707,6 +72789,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>40940</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -73458,6 +73541,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>41289</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -74220,6 +74304,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42370</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -74987,6 +75072,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>42768</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -76738,7 +76824,6 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
-		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39041</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -77100,6 +77185,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18085</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -77553,6 +77639,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3439</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -77649,6 +77736,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>4968</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -79504,6 +79592,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43636</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -81451,6 +81540,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44261</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -85074,6 +85164,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>32825</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -85471,6 +85562,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44799</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -85544,6 +85636,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44806</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -85617,6 +85710,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44807</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -85690,6 +85784,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44808</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -86579,6 +86674,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>44851</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -87235,6 +87331,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>5953</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -88742,6 +88839,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39163</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -90630,6 +90728,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>8211</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -91013,6 +91112,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>45680</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -91103,6 +91203,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18088</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -91288,6 +91389,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>45746</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -91379,6 +91481,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>11895</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -91772,6 +91875,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>3682</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -92969,6 +93073,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>18685</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -93070,6 +93175,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>26303</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -94284,6 +94390,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>43639</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -96240,6 +96347,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>39012</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -98367,6 +98475,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>23463</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -99261,6 +99370,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>46469</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
@@ -99344,6 +99454,7 @@ V článku napravo jsou podrobně popsané rozdíly mezi jednotlivými výrobci 
 		<PURCHASE_PRICE />
 		<STANDARD_PRICE />
 		<CURRENCY>CZK</CURRENCY>
+		<AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
 		<PRODUCT_NUMBER>46471</PRODUCT_NUMBER>
 	</SHOPITEM>
 	<SHOPITEM>
